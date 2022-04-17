@@ -12,5 +12,6 @@ if (num == 0){
 printf("%d  ",i);
 }
 }
+sleep(10);
 return 0;
 }
