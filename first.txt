@@ -1,1 +1,3 @@
 hello this is my 1st git repo
+
+some changes to the file
